@@ -1,4 +1,4 @@
 # esercitazioni
 
 ## Esercizio 01: Python
-## Test 02
+## Note 02
