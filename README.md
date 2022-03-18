@@ -1,4 +1,4 @@
 # esercitazioni
 
-## Esercizio 01: Python
-## Note 02
+## Esercizio 01: Python https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/
+
