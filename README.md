@@ -1,4 +1,4 @@
-# esercitazioni
+# ML_CLASSIFICAZIONE + TEXT MINING
 
 ## Esercizio 01: Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/il-A-ria/esercitazioni/blob/main/01_intro.ipynb)
 
